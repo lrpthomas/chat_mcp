@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "chat-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "chat-mcp"
+      ],
+      "cwd": "/path/to/your/chat_mcp"
+    }
+  }
+}

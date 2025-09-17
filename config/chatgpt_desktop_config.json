@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "chat-mcp": {
+      "command": "chat-mcp",
+      "env": {
+        "PYTHONPATH": "/path/to/your/chat_mcp/src"
+      }
+    }
+  }
+}
